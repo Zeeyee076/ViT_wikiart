@@ -1,1 +1,1 @@
-# ViT_wikiart -- Still Working
+# ViT_wikiart -- Vision Transformer
